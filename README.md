@@ -109,3 +109,29 @@ qiskit-quantum-circuits/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+```
+
+---
+
+## Future Experiments
+
+Additional quantum-computing experiments will be added to this repository, including:
+
+- Quantum Teleportation
+- Deutsch-Jozsa Algorithm
+- Bernstein-Vazirani Algorithm
+- Grover's Search Algorithm
+- Variational Quantum Algorithms
+- Quantum error mitigation experiments
+- Quantum error correction experiments
+
+---
+
+## Author
+
+**Sohom Ray Mandal**
+
+B.Tech Electrical Engineering  
+Indian Institute of Technology Tirupati
+
+GitHub: [Luzaryal](https://github.com/Luzaryal)
